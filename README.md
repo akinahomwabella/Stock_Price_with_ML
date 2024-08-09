@@ -5,7 +5,7 @@ This project aims to predict stock market trends by integrating historical stock
 
 ## Project Phases and Timeline
 
-### Phase 1: Data Collection and Preprocessing (Week 1)
+### Phase 1: Data Collection and Preprocessing 
 **Objectives:**
 - Collect historical stock price data and financial news articles.
 - Preprocess the data for analysis and modeling.
@@ -50,7 +50,7 @@ This project aims to predict stock market trends by integrating historical stock
 **Deliverables:**
 - Feature matrix combining financial, sentiment, and temporal features.
 
-### Phase 3: Model Implementation and Training (Weeks 3-4)
+### Phase 3: Model Implementation and Training 
 **Objectives:**
 - Implement and train machine learning models.
 
@@ -68,7 +68,7 @@ This project aims to predict stock market trends by integrating historical stock
 **Deliverables:**
 - Trained models and initial performance metrics (e.g., RMSE, MAE, accuracy).
 
-### Phase 4: Model Evaluation and Optimization (Week 5)
+### Phase 4: Model Evaluation and Optimization 
 **Objectives:**
 - Evaluate and optimize model performance.
 
@@ -86,7 +86,7 @@ This project aims to predict stock market trends by integrating historical stock
 **Deliverables:**
 - Finalized models with optimized parameters and detailed evaluation metrics.
 
-### Phase 5: Research Paper and Presentation Preparation (Week 6)
+### Phase 5: Research Paper and Presentation 
 **Objectives:**
 - Document findings
 **Linear Regression**
