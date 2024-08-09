@@ -88,10 +88,12 @@ This project aims to predict stock market trends by integrating historical stock
 
 ### Phase 5: Research Paper and Presentation Preparation (Week 6)
 **Objectives:**
-- Document findings and prepare for presentation.
+- Document findings
+![519a9dd0-cfd9-42a0-b5f1-c00e262c5e97](https://github.com/user-attachments/assets/51666d3c-37ce-4142-b7f8-dec9e67ec436)
 
   
-This project will provide valuable insights into stock market prediction using a combination of financial data and sentiment analysis, showcasing advanced skills in data science and machine learning.
+
+rediction using a combination of financial data and sentiment analysis, showcasing advanced skills in data science and machine learning.
 
 ## Contact
 - **Email:** akinahom.wabella@mnsu.edu
