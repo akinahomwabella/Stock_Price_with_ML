@@ -90,28 +90,7 @@ This project aims to predict stock market trends by integrating historical stock
 **Objectives:**
 - Document findings and prepare for presentation.
 
-**Tasks:**
-1. **Research Paper Writing:**
-    - **Introduction:** Background, objectives, and significance.
-    - **Data and Methodology:** Data collection, preprocessing, feature engineering, and modeling.
-    - **Results:** Model evaluation metrics and comparisons.
-    - **Discussion:** Interpretation of results, limitations, and improvements.
-    - **Conclusion:** Summary of findings and future work.
-2. **Presentation Preparation:**
-    - Create visualizations for key findings.
-    - Prepare a slide deck summarizing the project.
-    - Practice presentation skills.
-
-**Deliverables:**
-- Research paper ready for submission.
-- Presentation ready for delivery.
-
-## Key Considerations and Tips
-1. **Data Quality:** Ensure accuracy and relevance of financial and sentiment data.
-2. **Model Interpretability:** Choose models that are interpretable for non-technical audiences.
-3. **Stay Updated:** Follow the latest research and techniques in financial prediction and sentiment analysis.
-4. **Document Everything:** Maintain detailed documentation for all steps to support the research paper and presentation.
-
+  
 This project will provide valuable insights into stock market prediction using a combination of financial data and sentiment analysis, showcasing advanced skills in data science and machine learning.
 
 ## Contact
