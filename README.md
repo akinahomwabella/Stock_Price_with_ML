@@ -157,8 +157,19 @@ Before you begin, ensure you have the following installed on your system:
 4. **View Results:**
    - Examine the model outputs and visualizations generated within the notebook.
    - Make any necessary adjustments or optimizations as described.
+     
 
-### Additional Notes
+![image](https://github.com/user-attachments/assets/2037d6e4-e9a8-4300-ac75-b2890a0c2ee7)
+
+![image](https://github.com/user-attachments/assets/165be9cc-7c55-457a-ae72-2bf66c618b50)
+![image](https://github.com/user-attachments/assets/8d373f2d-12f5-41a7-9025-85af10aa6a32)
+
+
+
+![image](https://github.com/user-attachments/assets/3c69ebbf-b8f9-471e-ae3f-ec1a788c194d)
+
+### Additional Not
+
 - If you encounter any issues with missing dependencies, try reinstalling them using `pip install <package_name>`.
 - To deactivate the virtual environment, simply run `deactivate` in your terminal.
 
