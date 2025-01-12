@@ -18,16 +18,16 @@ This project aims to predict stock market trends by integrating historical stock
      - JPMorgan (JPM)
      - Pfizer (PFE)
      - ExxonMobil (XOM)
-     - Use APIs like Yahoo Finance, Alpha Vantage, or Quandl.
+     - Use APIs like Yahoo Finance.
    - **Sentiment Data:**
-     - Scrape news articles or social media posts using BeautifulSoup, Scrapy, or NewsAPI.
+     - Scrape news articles or social media posts using NewsAPI.
      - Ensure data is collected over the same period as stock prices.
 2. **Data Preprocessing:**
    - **Stock Price Data:**
      - Handle missing values, normalize data, create features like moving averages and daily returns.
    - **Sentiment Data:**
      - Clean text data, perform tokenization, stemming/lemmatization.
-     - Calculate sentiment scores using VADER, TextBlob, or Transformers.
+     - Calculate sentiment scores using VADER and TextBlob.
 
 **Deliverables:**
 - Cleaned and preprocessed datasets for stock prices and sentiment analysis.
